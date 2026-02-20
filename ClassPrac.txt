@@ -1,4 +1,0 @@
-Class Practice.
-This is my 3rd class and I'm using Git hub.
-Let's make some changes.
-Haha, it worked.
